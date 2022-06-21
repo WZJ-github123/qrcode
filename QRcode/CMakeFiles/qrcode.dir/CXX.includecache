@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wzj/QRcode/qrcode1.cpp
+iostream
+-
+sstream
+-
+stdio.h
+-
+assert.h
+-
+stdlib.h
+-
+string
+-
+cryptopp/osrng.h
+-
+cryptopp/modes.h
+-
+cryptopp/base64.h
+-
+iostream
+-
+string
+-
+cstdlib
+-
+cryptopp/cryptlib.h
+-
+cryptopp/aes.h
+-
+cryptopp/filters.h
+-
+
